@@ -1,0 +1,199 @@
+body {
+	margin: 0 auto 0 auto;
+	font-family: 'Dosis', sans-serif;
+	text-align: center;
+	color: #40514e;
+}
+
+a {
+	color: #11999e;
+}
+
+h1 {
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+.h1heading {
+	color: #66bfbf; /* #fb5b5a Hexcode for the red text */
+	font-family: 'Montserrat', sans-serif;
+	font-size: 5rem;
+	margin: 0 0 5px 0;
+}
+
+h2 {
+	color: #66bfbf;
+	font-family: 'Teko', sans-serif;
+	font-size: 2rem;
+}
+
+.h2heading {
+	color: #66bfbf;
+	font-family: 'Teko', sans-serif;
+	font-size: 2.5rem;
+	position: relative;
+	font-weight: normal;
+}
+
+h3 {
+	color: #11999e;
+	font-family: 'Teko', sans-serif;
+	font-size: 1.5rem;
+}
+
+p {
+	font-size: 1.2rem;
+	line-height: 2;
+}
+
+.intro {
+	width: 30%;
+	margin: auto;
+}
+
+hr {
+	color: #94b8b8;
+	border-style: none;
+	border-top: 5px dotted;
+	max-width: 3%;
+	margin: 70px auto 70px auto;
+}
+
+.top-container {
+	background-color: #eaf6f6;
+	padding-top: 200px;
+	margin: 0 auto 0 auto;
+}
+
+.middle-container {
+	background-color: #ffffff;
+	padding-top: 100px;
+}
+
+.bottom-container {
+	background-color: #66bfbf;
+	padding: 50px 0 20px 0;
+}
+
+.bold-para {
+	font-weight: 400;
+}
+
+.coding {
+	margin: auto 10% auto 10%;
+	float: right;
+}
+
+.listing {
+	line-height: 50%;
+}
+
+.skills-img {
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.skills-img-bottom {
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+	margin-bottom: 0px;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+}
+
+.skill-row-bottom {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+}
+
+.imgprof {
+	height: 250px;
+	width: 250px;
+	border-radius: 100%;
+}
+
+.mountain {
+	height: 500px;
+	width: 800px;
+}
+
+.td-align {
+	display: inline-block;
+	position: relative;
+	bottom: 20px;
+	line-height: 1;
+}
+
+.top-cloud {
+	display: inline-block;
+	position: absolute;
+	top: 80px;
+	right: 30%;
+}
+
+.bottom-cloud {
+	display: inline-block;
+	position: absolute;
+	left: 25%;
+}
+
+.btn {
+	background-color: #019fa5;
+	border: 2px solid #026964;
+	color: white;
+	padding: 6px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.btn:hover {
+	background-color: #019fa5;
+	border: 2px solid #026964;
+	color: white;
+	padding: 6px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.24), 0 11px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.contact-me {
+	margin-bottom: 30px;
+}
+
+.footer-link {
+	color: #11999e;
+	text-decoration: none;
+	position: relative;
+	font-weight: bold;
+	bottom: 0;
+	padding: 20px;
+}
+
+.footer-link:hover {
+	color: #083335;
+	position: relative;
+	font-weight: bold;
+	bottom: 0;
+	padding: 20px;
+}
+
+.icon-credit {
+	margin-top: 30px;
+}
+
+.footer-text {
+	color: #eaf6f6;
+	font-size: 0.9rem;
+}
